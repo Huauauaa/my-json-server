@@ -27,6 +27,13 @@
       "title": "Have dinner",
       "completed": true
     }
-  ]
+  ],
+  "foo": {
+    "bar": {
+      "baz": {
+        "name": "demo"
+      }
+    },
+    "rab": []
+  }
 }
-
