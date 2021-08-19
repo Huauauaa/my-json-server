@@ -27,6 +27,37 @@
       "title": "Have dinner",
       "completed": true
     }
+  ],
+  "tips": [
+    {
+      "id": 0,
+      "title": "Yawning",
+      "description": "Yawning can be really helpful, as it produces tears to help moisten and lubricate the eyes."
+    },
+    {
+      "id": 1,
+      "title": "Metabolism",
+      "description": "Emerging research shows that sitting for long periods of time contributes to risk of metabolism syndrome, heart attack and stroke risk and overall death risk, among others. Taking regular walking breaks can help your circulation, working to counteract some of those problems."
+    },
+    {
+      "id": 2,
+      "title": "Change",
+      "description": "Do you have a stability ball or standing work desk? Consider replacing your desk chair with them for a while."
+    },
+    {
+      "id": 3,
+      "title": "Coffee break",
+      "description": "Going on coffee break? Consider doing a 5-minutes walk every time you go for one."
+    },
+    {
+      "id": 4,
+      "title": "Active meetings",
+      "description": "How about moving meetings from the conference room to the concourse? Waling not only burns calories but it may even foster a sense of collaboration."
+    },
+    {
+      "id": 5,
+      "title": "Palming",
+      "description": "While seated, brace elbows on the desk and close to the desk edge. Let your weight fall forward and cup hands over eyes. Close your eyes and inhale slowly through nose and hold for few seconds. Continue deep breathing."
+    }
   ]
 }
-
